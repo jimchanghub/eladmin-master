@@ -7,7 +7,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/elunez/eladmin.svg?style=social&label=Fork)](https://github.com/elunez/eladmin)
 
 </div>
-
+http://qdall01.baidupcs.com/file/3c3220a682b515da5be8caae6f6de053?bkt=en-2e2b5030dd6ff0377a60f10ec7e303ddc1cac9ba2dfcf0cfe7ac8983a61a6100fffca42019380fde&fid=2287030762-250528-564380071931069&time=1574046165&sign=FDTAXGERLQBHSKfWa-DCb740ccc5511e5e8fedcff06b081203-gLp4qyvYtQv3Dr9CiZR7theVpdE%3D&to=34&size=1983455832&sta_dx=1983455832&sta_cs=2&sta_ft=rar&sta_ct=2&sta_mt=2&fm2=MH%2CYangquan%2CAnywhere%2C%2Cshanghai%2Ccnc&ctime=1573623403&mtime=1573623403&resv0=cdnback&resv1=0&resv2=rlim&resv3=5&resv4=1983455832&vuk=2287030762&iv=0&htype=&randtype=em&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=en-71070bdbd8234811b87a14f94287c63b994a73b108c0a69bbea465ba8ea71cd098baefba27078f2c&sl=81068110&expires=8h&rt=pr&r=647842516&mlogid=7455570785095245850&vbdid=-&fin=of.rar&bflag=34-34&rtype=1&dp-logid=7455570785095245850&dp-callid=0.1.1&tsl=10&csl=50&csign=y3mmFqHTCIiBQQjCJQ3Yf6SY1qU%3D&so=1&ut=6&uter=1&serv=0&uc=566704430&ti=26fa64dbec28822412e09b5bfc8bb3bd7bebdb20f7811021305a5e1275657320&reqlabel=250528_l_835ad5eb7ce35f66320044a01c9aa1d3&by=themis
 #### 项目简介
 eladmin基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统， 权限控制的方式为RBAC，项目支持数据字典与数据权限管理，支持一键生成前后端代码，支持前端菜单动态路由
 
